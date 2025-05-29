@@ -2,7 +2,7 @@
 
 A personal portfolio website built with Next.js that mimics the Windows 11 interface. Experience my portfolio through a familiar operating system UI!
 
-![Windows 11 Portfolio](public/images/preview.png)
+
 
 ## 🚀 Features
 
